@@ -1,0 +1,14 @@
+C:\Users\Sprint\source\repos\Task_Functionn\bin\Debug\net8.0\Task_Functionn.exe
+C:\Users\Sprint\source\repos\Task_Functionn\bin\Debug\net8.0\Task_Functionn.deps.json
+C:\Users\Sprint\source\repos\Task_Functionn\bin\Debug\net8.0\Task_Functionn.runtimeconfig.json
+C:\Users\Sprint\source\repos\Task_Functionn\bin\Debug\net8.0\Task_Functionn.dll
+C:\Users\Sprint\source\repos\Task_Functionn\bin\Debug\net8.0\Task_Functionn.pdb
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\Task_Functionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\Task_Functionn.AssemblyInfoInputs.cache
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\Task_Functionn.AssemblyInfo.cs
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\Task_Functionn.csproj.CoreCompileInputs.cache
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\Task_Functionn.dll
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\refint\Task_Functionn.dll
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\Task_Functionn.pdb
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\Task_Functionn.genruntimeconfig.cache
+C:\Users\Sprint\source\repos\Task_Functionn\obj\Debug\net8.0\ref\Task_Functionn.dll
